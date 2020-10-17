@@ -1,2 +1,2 @@
 # a packet of maggi
-# a cup of water
+# 2 cup of water
